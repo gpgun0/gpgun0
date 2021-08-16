@@ -11,7 +11,7 @@
 ### 😠 In Progress...</br>
 
 - GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/></a> <img align="center" height="22px" src="https://img.shields.io/badge/Storybook-FF4785??style=for-the-badge&logo=Storybook&logoColor=white"/></a>
-- NET 챌린지 캠프 시즌8  21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/></a>
+- NET 챌린지 캠프 시즌8  21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/></a> <img align="center" height="22px" src="https://img.shields.io/badge/CSharp-239120??style=for-the-badge&logo=CSharp&logoColor=white"/></a>
 
 ### 🤗 Done!!!</br>
 
