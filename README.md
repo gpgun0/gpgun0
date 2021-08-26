@@ -8,8 +8,8 @@
 2021.08 ~ GIST 네트워크 컴퓨팅 시스템 연구실(Networked Computing Systems Lab.) / 인턴
 2022.07 (졸업 예정)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=compact)](https://github.com/gpgun0)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula)](https://github.com/gpgun0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=dracula)](https://github.com/gpgun0)  
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0)](https://github.com/gpgun0)
 
 ### 😠 In Progress...</br>
 
