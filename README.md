@@ -8,6 +8,8 @@
 2021.08 ~ GIST 네트워크 컴퓨팅 시스템 연구실(Networked Computing Systems Lab.) / 인턴
 2022.07 (졸업 예정)<br/>
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula)](https://github.com/gpgun0/)
+
 ### 😠 In Progress...</br>
 
 - GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/></a> <img align="center" height="22px" src="https://img.shields.io/badge/Storybook-FF4785??style=for-the-badge&logo=Storybook&logoColor=white"/></a>
