@@ -1,5 +1,5 @@
 <h1 align="center">Kim GeonHo</h1>
-<h2 align="center">a rolling stone gathers no moss💪</h2>
+<div align="center">a rolling stone gathers no moss💪</div>
 
 ### 👨‍🎓 History</br>
 2016.03 ~ 2021.06 광주과학기술원(GIST) / 지구환경공학부<br/>
@@ -8,13 +8,15 @@
 2021.08 ~ GIST 네트워크 컴퓨팅 시스템 연구실(Networked Computing Systems Lab.) / 인턴
 2022.07 (졸업 예정)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=dracula)](https://github.com/gpgun0)  
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0)](https://github.com/gpgun0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=compact&theme=dracula)](https://github.com/gpgun0)  
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula)](https://github.com/gpgun0)
+
+### [🕛 TIL](https://gpgun.netlify.app)
 
 ### 😠 In Progress...</br>
 
-- GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/></a> <img align="center" height="22px" src="https://img.shields.io/badge/Storybook-FF4785??style=for-the-badge&logo=Storybook&logoColor=white"/></a>
-- NET 챌린지 캠프 시즌8  21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/></a> <img align="center" height="22px" src="https://img.shields.io/badge/CSharp-239120??style=for-the-badge&logo=CSharp&logoColor=white"/></a>
+- GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Storybook-FF4785??style=for-the-badge&logo=Storybook&logoColor=white"/>
+- NET 챌린지 캠프 시즌8  21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/CSharp-239120??style=for-the-badge&logo=CSharp&logoColor=white"/>
 
 ### 🤗 Done!!!</br>
 
