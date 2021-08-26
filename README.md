@@ -9,7 +9,7 @@
 2022.07 (졸업 예정)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=compact&theme=dracula)](https://github.com/gpgun0)  
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula)](https://github.com/gpgun0)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula&v=2)](https://github.com/gpgun0)
 
 ### [🕛 TIL](https://gpgun.netlify.app)
 
