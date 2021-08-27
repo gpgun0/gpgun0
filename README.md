@@ -3,9 +3,9 @@
 
 ### 👨‍🎓 History</br>
 - 2013.03. ~ 2016.02. Sangwoo High School, South Korea  
-- 2016.03. ~ 2021.06. School of Earth Sciences and Enviornmental Engineering, GIST, South Korea<br/>  
+- 2016.03. ~ 2021.06. Undergraduate Student of Electrical Engineering and Computer Science, GIST, South Korea<br/>  
 - 2018.08. ~ 2020.03. Complete Military Service, Auxiliary Policeman, Gyeonggi Bukbu Provincial Police Agency, South Korea<br/>
-- 2021.06. ~ Current. School of Electrical Engineering and Computer Science, GIST, South Korea (Change of Major)<br/>
+- 2021.06. ~ Current. Undergraduate Student of Electrical Engineering and Computer Science, GIST, South Korea(Change of Major)<br/>
 - 2021.08. ~ Intern of Networked Intelligence Laboratory. (NetAI Lab.), GIST, South Korea
 <!-- 2022.07 (졸업 예정)<br/>~ -->
 
