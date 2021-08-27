@@ -2,17 +2,19 @@
 <div align="center">a rolling stone gathers no moss💪</div>
 
 ### 👨‍🎓 History</br>
-2016.03 ~ 2021.06 광주과학기술원(GIST) / 지구환경공학부<br/>
-2018.08.09 ~ 2020.03.27 대한민국 의무경찰 / 경기북부지방경찰청<br/>
-2021.06 ~ 광주과학기술원(GIST) / 전기전자컴퓨터공학부 / 전공 변경<br/>
-2021.08 ~ GIST 네트워크 컴퓨팅 시스템 연구실(Networked Computing Systems Lab.) / 인턴
-2022.07 (졸업 예정)<br/>
+- 2013.03. ~ 2016.02. Sangwoo High School, South Korea  
+- 2016.03. ~ 2021.06. School of Earth Sciences and Enviornmental Engineering, GIST, South Korea<br/>  
+- 2018.08. ~ 2020.03. Complete Military Service, Auxiliary Policeman, Gyeonggi Bukbu Provincial Police Agency, South Korea<br/>
+- 2021.06. ~ Current. School of Electrical Engineering and Computer Science, GIST, South Korea (Change of Major)<br/>
+- 2021.08. ~ Intern of Networked Intelligence Laboratory. (NetAI Lab.), GIST, South Korea
+<!-- 2022.07 (졸업 예정)<br/>~ -->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=compact&theme=dracula)](https://github.com/gpgun0)  
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula)](https://github.com/gpgun0)
 
 ### [🕛 TIL](https://gpgun.netlify.app)
-
+- <img align="center" height="22px" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=black"/> <img align="center" height="22px" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=Linux&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/GNU Bash-4EAA25??style=for-the-badge&logo=GNU Bash&logoColor=white"/>
 ### 😠 In Progress...</br>
 
 - GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Storybook-FF4785??style=for-the-badge&logo=Storybook&logoColor=white"/>
