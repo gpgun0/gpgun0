@@ -11,7 +11,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=compact&theme=dracula)](https://github.com/gpgun0)  
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula)](https://github.com/gpgun0)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula&v=2)](https://github.com/gpgun0)
 
 ### [🕛 TIL](https://gpgun.netlify.app)
 - <img align="center" height="22px" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=black"/> <img align="center" height="22px" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=Linux&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/GNU Bash-4EAA25??style=for-the-badge&logo=GNU Bash&logoColor=white"/>
