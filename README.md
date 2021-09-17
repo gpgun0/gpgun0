@@ -1,5 +1,5 @@
 <h1 align="center">Kim GeonHo</h1>
-<h4 align="center">코드 리뷰합시다</h4>
+<h3 align="center">코드 리뷰합시다</h3>
 
 <div align="center">
   
@@ -9,7 +9,7 @@
   
 </div>
 
-### [🕛 TIL](https://gpgun.netlify.app)
+### [🕛 TIL](https://dailyatelier.netlify.app/)
 - <img align="center" height="22px" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=black"/> <img align="center" height="22px" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=Linux&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/GNU Bash-4EAA25??style=for-the-badge&logo=GNU Bash&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Graph Theory-5a5e5d??style=for-the-badge&logoColor=white"/>
 ### 😠 In Progress...</br>
 
