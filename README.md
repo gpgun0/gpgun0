@@ -1,5 +1,5 @@
 <h1 align="center">Kim GeonHo</h1>
-<h3 align="center">코드 리뷰합시다</h3>
+<!-- <h3 align="center">코드 리뷰합시다</h3> -->
 
 <div align="center">
   
@@ -20,7 +20,7 @@
 ### 🤗 Done!!!</br>
 
 ### 🧐 To Do~</br>
-- GIST OOO 사이트 토이 프로젝트
+<!-- - GIST OOO 사이트 토이 프로젝트 -->
 
 ### 👨‍🎓 History</br>
 - 2013.03. ~ 2016.02. Sangwoo High School, South Korea  
