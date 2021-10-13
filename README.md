@@ -4,8 +4,10 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpgun0&show_icons=true&theme=dracula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=compact&theme=dracula&card_width=445px)](https://github.com/gpgun0)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpgun0&layout=compact&theme=dracula&card_width=445px)](https://github.com/gpgun0)   -->
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gpgun0&theme=dracula)](https://github.com/gpgun0)
+  
+<img width="495px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgh7943">
   
 </div>
 
