@@ -16,7 +16,7 @@
 <!-- - <img align="center" height="22px" src="https://img.shields.io/badge/Graph Theory-5a5e5d??style=for-the-badge&logoColor=white"/> -->
 ### 😠 In Progress...</br>
 
-- GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Chakra UI-319795??style=for-the-badge&logo=Chakra UI&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Storybook-FF4785??style=for-the-badge&logo=Storybook&logoColor=white"/> 
+- GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/> 
 
 
 ### 🤗 Done!!!</br>
