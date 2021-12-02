@@ -17,12 +17,12 @@
 ### 😠 In Progress...</br>
 
 - GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Chakra UI-319795??style=for-the-badge&logo=Chakra UI&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Storybook-FF4785??style=for-the-badge&logo=Storybook&logoColor=white"/> 
-- NET 챌린지 캠프 시즌8  21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/CSharp-239120??style=for-the-badge&logo=CSharp&logoColor=white"/>
+
 
 ### 🤗 Done!!!</br>
+- NET 챌린지 캠프 시즌8 - 은상 (21.07.01 ~ 21.12.02) <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> 
 
 ### 🧐 To Do~</br>
-<!-- - GIST OOO 사이트 토이 프로젝트 -->
 
 ### 👨‍🎓 History</br>
 - 2013.03. ~ 2016.02. Sangwoo High School, South Korea  
