@@ -20,7 +20,7 @@
 
 
 ### 🤗 Done!!!</br>
-- NET 챌린지 캠프 시즌8 - 은상 (21.07.01 ~ 21.12.02) <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> 
+- [NET 챌린지 캠프 시즌8 - 은상](https://www.etnews.com/20211202000065) (21.07.01 ~ 21.12.02) <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> 
 
 ### 🧐 To Do~</br>
 
