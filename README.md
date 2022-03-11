@@ -11,8 +11,8 @@
   
 </div>
 
-### [🕛 TIL](https://dailyatelier.netlify.app/)
-- <img align="center" height="22px" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=black"/> <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=Linux&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/GNU Bash-4EAA25??style=for-the-badge&logo=GNU Bash&logoColor=white"/> 
+<!-- ### [🕛 TIL](https://dailyatelier.netlify.app/)
+- <img align="center" height="22px" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=black"/> <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=Python&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=Linux&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/GNU Bash-4EAA25??style=for-the-badge&logo=GNU Bash&logoColor=white"/>  -->
 <!-- - <img align="center" height="22px" src="https://img.shields.io/badge/Graph Theory-5a5e5d??style=for-the-badge&logoColor=white"/> -->
 ### 😠 In Progress...</br>
 
@@ -24,8 +24,6 @@
 
 ### 🤗 Done!!!</br>
 - [NET 챌린지 캠프 시즌8 - 은상](https://www.etnews.com/20211202000065) (21.07.01 ~ 21.12.02) <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> 
-
-### 🧐 To Do~</br>
 
 ### 👨‍🎓 History</br>
 - 2013.03. ~ 2016.02. Sangwoo High School, South Korea  
