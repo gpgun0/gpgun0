@@ -18,8 +18,6 @@
 
 - GIST 청원사이트 프로젝트 21.07.01 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/> 
 
-- GIST 졸업 논문 22.01.03 ~ 
-
 - GIST 서비스 러닝 프로젝트 22.02.28 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/> 
 
 ### 🤗 Done!!!</br>
