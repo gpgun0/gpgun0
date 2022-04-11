@@ -23,12 +23,12 @@
 ### 🤗 Done!!!</br>
 - [NET 챌린지 캠프 시즌8 - 은상](https://www.etnews.com/20211202000065) (21.07.01 ~ 21.12.02) <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> 
 
-### 👨‍🎓 History</br>
+<!-- ### 👨‍🎓 History</br>
 - 2013.03. ~ 2016.02. Sangwoo High School, South Korea  
 - 2016.03. ~ 2021.06. Undergraduate Student of Electrical Engineering and Computer Science, GIST, South Korea<br/>  
 - 2018.08. ~ 2020.03. Complete Military Service, Auxiliary Policeman, Gyeonggi Bukbu Provincial Police Agency, South Korea<br/>
 - 2021.06. ~ Current. Undergraduate Student of Electrical Engineering and Computer Science, GIST, South Korea(Change of Major)<br/>
-- 2021.08. ~ Intern of Networked Intelligence Laboratory. (NetAI Lab.), GIST, South Korea
+- 2021.08. ~ Intern of Networked Intelligence Laboratory. (NetAI Lab.), GIST, South Korea -->
 <!-- 2022.07 (졸업 예정)<br/>~ -->
 
 <!--
