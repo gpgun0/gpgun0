@@ -20,6 +20,8 @@
 
 - GIST 서비스 러닝 프로젝트 22.02.28 ~ <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/> 
 
+- GIST [SmartX-Mini](https://github.com/SmartX-Labs/SmartX-Mini/tree/master/SmartX-Mini-2022%20Collection/Experiment) 조교 22.02.28 ~ <img align="center" height="22px" src="https://img.shields.io/badge/Docker-2496ED??style=for-the-badge&logo=Docker&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Kubernetes-326CE5??style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+
 ### 🤗 Done!!!</br>
 - [NET 챌린지 캠프 시즌8 - 은상](https://www.etnews.com/20211202000065) (21.07.01 ~ 21.12.02) <img align="center" height="22px" src="https://img.shields.io/badge/Unity-000??style=for-the-badge&logo=Unity&logoColor=white"/> 
 
