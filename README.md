@@ -16,7 +16,7 @@
 <!-- - <img align="center" height="22px" src="https://img.shields.io/badge/Graph Theory-5a5e5d??style=for-the-badge&logoColor=white"/> -->
 ### 😠 In Progress...</br>
 
-- [지스트 청원](https://www.gist-petition.com/) 프로젝트 (21.07.01 ~ ) <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/> 
+- [지스트 청원](https://www.gist-petition.com/) (21.07.01 ~ ) <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/> 
 
 - GIST [서비스 러닝](https://github.com/GIST-2022-Service-Learning/nanum-client) 프로젝트 (22.02.28 ~ ) <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=white"/> 
 
