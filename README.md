@@ -19,13 +19,13 @@
 - [지스트 청원](https://www.gist-petition.com/) (21.07.01 ~ ) <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/> 
 
   - [22.03.14 출시](https://www.gist-petition.com/petitions/2)
-  - 22.06.15 기준 
+  - 22.07.15 기준 
   
      |  **가입자** | **답변된 청원** | **총 동의 수** |
      | :-----: | :-----: | :-----: |
-     | 245   |   5   |  430  |
+     | 270   |   5   |  535  |
 
-
+- cuop 클라우드 스톤 인턴 (22.06.20 ~ 22.08.12) <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Three.js-000000??style=for-the-badge&logo=Three.js&logoColor=white"/>
 
 
 ### 🤗 Done!!!</br>
@@ -34,6 +34,7 @@
 - GIST [SmartX-Mini](https://github.com/SmartX-Labs/SmartX-Mini/tree/master/SmartX-Mini-2022%20Collection/Experiment) 조교 (22.02.28 ~ 22.06.10) <img align="center" height="22px" src="https://img.shields.io/badge/Docker-2496ED??style=for-the-badge&logo=Docker&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/Kubernetes-326CE5??style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 
 - GIST [서비스 러닝](https://github.com/GIST-2022-Service-Learning/nanum-client) 프로젝트 (22.02.28 ~ 22.06.17) <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/JavaScript-F7DF1E??style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+
 
 
 <!-- ### 👨‍🎓 History</br>
